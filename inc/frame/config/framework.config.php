@@ -167,6 +167,7 @@ $options[] = array(
                 'col-sm-6'                    => '2',
                 'col-sm-4'                    => '3',
                 'col-sm-4 col-md-3'           => '4',
+				'col-sm-4 col-ssm-5'          => '5',
                 'col-sm-4 col-md-3 col-lg-2'  => '6'
             ),
         ),
