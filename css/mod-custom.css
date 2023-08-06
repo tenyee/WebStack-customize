@@ -1,1 +1,26 @@
 .col-ssm-5{width:20%}
+
+.url-card {
+    width: 90%;
+    height: 30px;
+    border-top: 1px solid rgba(136,136,136,.2);
+    position: absolute;
+    top: 78px;
+    left:15px;
+}
+
+.url-goto {
+    display: inline-block;
+    margin-top: 3px;
+    padding: 2px;
+    border-radius: 10px;
+    background-color: #f3f3f3;
+}
+
+.url-goto:hover{
+    background-color: #f1404b;
+    color: white;
+}
+
+
+
